@@ -1,0 +1,6 @@
+pandas
+numpy
+python-docx
+sentence-transformers
+scikit-learn
+tqdm
